@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/KHANA-KHAZANA-for-usa-/static/css/main.c8d76b69.chunk.css",
-    "main.js": "/KHANA-KHAZANA-for-usa-/static/js/main.eea178a8.chunk.js",
-    "main.js.map": "/KHANA-KHAZANA-for-usa-/static/js/main.eea178a8.chunk.js.map",
-    "runtime-main.js": "/KHANA-KHAZANA-for-usa-/static/js/runtime-main.410041ba.js",
-    "runtime-main.js.map": "/KHANA-KHAZANA-for-usa-/static/js/runtime-main.410041ba.js.map",
-    "static/js/2.15bfb385.chunk.js": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js",
-    "static/js/2.15bfb385.chunk.js.map": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js.map",
-    "index.html": "/KHANA-KHAZANA-for-usa-/index.html",
-    "precache-manifest.bda37245dc63da290488b35de4659c14.js": "/KHANA-KHAZANA-for-usa-/precache-manifest.bda37245dc63da290488b35de4659c14.js",
-    "service-worker.js": "/KHANA-KHAZANA-for-usa-/service-worker.js",
-    "static/css/main.c8d76b69.chunk.css.map": "/KHANA-KHAZANA-for-usa-/static/css/main.c8d76b69.chunk.css.map",
-    "static/js/2.15bfb385.chunk.js.LICENSE.txt": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/KHANA-KHAZANA-for-usa-/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/foodopedia/static/css/main.cfb1976f.chunk.css",
+    "main.js": "/foodopedia/static/js/main.3c0109c9.chunk.js",
+    "main.js.map": "/foodopedia/static/js/main.3c0109c9.chunk.js.map",
+    "runtime-main.js": "/foodopedia/static/js/runtime-main.5baf572c.js",
+    "runtime-main.js.map": "/foodopedia/static/js/runtime-main.5baf572c.js.map",
+    "static/js/2.15bfb385.chunk.js": "/foodopedia/static/js/2.15bfb385.chunk.js",
+    "static/js/2.15bfb385.chunk.js.map": "/foodopedia/static/js/2.15bfb385.chunk.js.map",
+    "index.html": "/foodopedia/index.html",
+    "precache-manifest.247628dd50ff136a429e1d10fa856278.js": "/foodopedia/precache-manifest.247628dd50ff136a429e1d10fa856278.js",
+    "service-worker.js": "/foodopedia/service-worker.js",
+    "static/css/main.cfb1976f.chunk.css.map": "/foodopedia/static/css/main.cfb1976f.chunk.css.map",
+    "static/js/2.15bfb385.chunk.js.LICENSE.txt": "/foodopedia/static/js/2.15bfb385.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/foodopedia/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.410041ba.js",
+    "static/js/runtime-main.5baf572c.js",
     "static/js/2.15bfb385.chunk.js",
-    "static/css/main.c8d76b69.chunk.css",
-    "static/js/main.eea178a8.chunk.js"
+    "static/css/main.cfb1976f.chunk.css",
+    "static/js/main.3c0109c9.chunk.js"
   ]
 }
