@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10834d1f0bb0169e20cdeeb2e840adf9",
+    "revision": "3725a3c94f19e803f4af9bed3ca82cd0",
     "url": "/KHANA-KHAZANA-for-usa-/index.html"
   },
   {
-    "revision": "c229032126eb78f24261",
+    "revision": "9ed7b5d24f1b9768dfa2",
     "url": "/KHANA-KHAZANA-for-usa-/static/css/main.c8d76b69.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c229032126eb78f24261",
-    "url": "/KHANA-KHAZANA-for-usa-/static/js/main.580ddb43.chunk.js"
+    "revision": "9ed7b5d24f1b9768dfa2",
+    "url": "/KHANA-KHAZANA-for-usa-/static/js/main.eea178a8.chunk.js"
   },
   {
     "revision": "944e380d5927337db011",

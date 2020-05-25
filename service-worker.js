@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KHANA-KHAZANA-for-usa-/precache-manifest.4c2aeef4bb32068096d53627997144e7.js"
+  "/KHANA-KHAZANA-for-usa-/precache-manifest.bda37245dc63da290488b35de4659c14.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KHANA-KHAZANA-for-usa-/static/css/main.c8d76b69.chunk.css",
-    "main.js": "/KHANA-KHAZANA-for-usa-/static/js/main.580ddb43.chunk.js",
-    "main.js.map": "/KHANA-KHAZANA-for-usa-/static/js/main.580ddb43.chunk.js.map",
+    "main.js": "/KHANA-KHAZANA-for-usa-/static/js/main.eea178a8.chunk.js",
+    "main.js.map": "/KHANA-KHAZANA-for-usa-/static/js/main.eea178a8.chunk.js.map",
     "runtime-main.js": "/KHANA-KHAZANA-for-usa-/static/js/runtime-main.410041ba.js",
     "runtime-main.js.map": "/KHANA-KHAZANA-for-usa-/static/js/runtime-main.410041ba.js.map",
     "static/js/2.15bfb385.chunk.js": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js",
     "static/js/2.15bfb385.chunk.js.map": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js.map",
     "index.html": "/KHANA-KHAZANA-for-usa-/index.html",
-    "precache-manifest.4c2aeef4bb32068096d53627997144e7.js": "/KHANA-KHAZANA-for-usa-/precache-manifest.4c2aeef4bb32068096d53627997144e7.js",
+    "precache-manifest.bda37245dc63da290488b35de4659c14.js": "/KHANA-KHAZANA-for-usa-/precache-manifest.bda37245dc63da290488b35de4659c14.js",
     "service-worker.js": "/KHANA-KHAZANA-for-usa-/service-worker.js",
     "static/css/main.c8d76b69.chunk.css.map": "/KHANA-KHAZANA-for-usa-/static/css/main.c8d76b69.chunk.css.map",
     "static/js/2.15bfb385.chunk.js.LICENSE.txt": "/KHANA-KHAZANA-for-usa-/static/js/2.15bfb385.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.410041ba.js",
     "static/js/2.15bfb385.chunk.js",
     "static/css/main.c8d76b69.chunk.css",
-    "static/js/main.580ddb43.chunk.js"
+    "static/js/main.eea178a8.chunk.js"
   ]
 }
